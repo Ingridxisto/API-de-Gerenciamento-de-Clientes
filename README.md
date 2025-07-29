@@ -56,12 +56,14 @@ cd API-de-Gerenciamento-de-Clientes
 ### Crie um ambiente virtual
 ```
 python -m venv venv
-``` 
 ```
-source venv/bin/activate  # Linux/macOS
+# Linux/macOS:
 ```
+source venv/bin/activate
 ```
-venv\Scripts\activate     # Windows
+# Windows:
+```
+venv\Scripts\activate
 ```
 
 ### Instale as dependências
