@@ -46,10 +46,11 @@ client_api
 ## **🛠️ Instalação**   
 ### Clone o repositório
 ```
-git clone https://github.com/seu-usuario/health-risk-api.git
+git clone https://github.com/Ingridxisto/API-de-Gerenciamento-de-Clientes.git
 ```
 ```
-cd health-risk-api
+cd API-de-Gerenciamento-de-Clientes
+
 ```
 
 ### Crie um ambiente virtual
