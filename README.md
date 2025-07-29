@@ -46,7 +46,8 @@ client_api
 ## **🛠️ Instalação**   
 ### Clone o repositório
 ```
-git clone https://github.com/seu-usuario/health-risk-api.git```
+git clone https://github.com/seu-usuario/health-risk-api.git
+```
 ```
 cd health-risk-api
 ```
