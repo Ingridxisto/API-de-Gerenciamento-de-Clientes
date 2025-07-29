@@ -57,8 +57,12 @@ cd API-de-Gerenciamento-de-Clientes
 ```
 python -m venv venv
 ``` 
+```
 source venv/bin/activate  # Linux/macOS
+```
+```
 venv\Scripts\activate     # Windows
+```
 
 ### Instale as dependências
 pip install -r requirements.txt
