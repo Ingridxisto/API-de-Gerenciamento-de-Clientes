@@ -57,11 +57,11 @@ cd API-de-Gerenciamento-de-Clientes
 ```
 python -m venv venv
 ```
-# Linux/macOS:
+#### Linux/macOS:
 ```
 source venv/bin/activate
 ```
-# Windows:
+#### Windows:
 ```
 venv\Scripts\activate
 ```
