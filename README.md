@@ -45,11 +45,16 @@ client_api
 
 ## **🛠️ Instalação**   
 ### Clone o repositório
-git clone https://github.com/seu-usuario/health-risk-api.git
+```
+git clone https://github.com/seu-usuario/health-risk-api.git```
+```
 cd health-risk-api
+```
 
 ### Crie um ambiente virtual
+```
 python -m venv venv
+``` 
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 
