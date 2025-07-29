@@ -1,4 +1,4 @@
-🩺 API de Gerenciamento de Clientes — Health Risk API
+🩺 *** API de Gerenciamento de Clientes — Health Risk API ***
 Esta é uma API REST desenvolvida em Python 3.11+, utilizando FastAPI, que permite cadastrar, editar, listar e calcular o risco de saúde de clientes com base em seus problemas de saúde. O projeto foi desenvolvido com foco em boas práticas de SOLID, TDD e DDD.
 
 🚀 Funcionalidades
@@ -23,7 +23,8 @@ Pytest
 HTTPie ou Insomnia/Postman para testes manuais
 
 📁 Estrutura de Diretórios
-´´´.
+´´´  
+.
 ├── app/
 │   ├── main.py
 │   ├── models/
